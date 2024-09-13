@@ -1,0 +1,22 @@
+html body {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.main {
+	display: flex;
+	flex-direction: row;
+}
+
+.card {
+	height: 100vh;
+	width: 20vw;
+	margin: 0px;
+	
+	border: 2px grey solid;
+}
+
+img {
+	height: 100%;
+	object-fit: cover;
+}
